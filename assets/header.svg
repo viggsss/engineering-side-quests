@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering Side Quests</title>
+  <desc id="desc">Small machines, FPGA games and slightly over-engineered fixes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#142236"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#57e389"/><stop offset="1" stop-color="#57c7ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <g fill="none" stroke="#26374f" stroke-width="2"><path d="M0 62h210l35 35h130"/><path d="M0 270h170l45-45h190"/><path d="M1200 72h-210l-35 35h-125"/><path d="M1200 262h-175l-42-42H845"/></g>
+  <text x="600" y="135" text-anchor="middle" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="760" letter-spacing="-2">ENGINEERING SIDE QUESTS</text>
+  <text x="600" y="190" text-anchor="middle" fill="url(#line)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="24">tiny machines · FPGA games · useful overthinking</text>
+  <g fill="#57e389"><circle cx="245" cy="97" r="5"/><circle cx="215" cy="225" r="5"/></g>
+  <g fill="#57c7ff"><circle cx="955" cy="107" r="5"/><circle cx="983" cy="220" r="5"/></g>
+</svg>
